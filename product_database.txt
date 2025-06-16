@@ -1,0 +1,8 @@
+Vitamin C Serum,Garnier,176,1000.0,France
+Skin Cleanser,Cetaphil,52,280.0,Switzerland
+Sunscreen,Aqualogica,155,700.0,India
+Moisturizing Cream,Neutrogena,229,450.0,USA
+Face Wash,Himalaya,139,350.0,India
+Lip Balm,Nivea,306,150.0,Germany
+Shampoo,Dove,114,380.0,UK
+Face Mask,L'Oreal,150,560.0,France
